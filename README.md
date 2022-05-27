@@ -1,6 +1,6 @@
-# # Morse Code
+# # TDD
 
-> This a Ruby project that translate morse code into English alphabet
+> School library app that implement the classes to represent students and teachers.
 
 ## Built With
 
@@ -12,11 +12,11 @@
 
 Start by cloning the repository.
 
-`https://github.com/Banstein/decode-morse-message.git`
+`https://github.com/Banstein/TDD.git`
 
 Navigate to the created folder.
 
-`cd decode-morse-message`
+`cd decode-TDD`
 
 Have fun with morse code translation.
 
@@ -28,17 +28,17 @@ Have fun with morse code translation.
 - Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
 - LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
 
-👤 Faith Eloho Usor
+👤 Temitope Ogunleye
 
-- GitHub: [@githubhandle](https://github.com/usorfaitheloho)
-- Twitter: [@twitterhandle](https://twitter.com/faith-usor16)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/faith-usor)
+- GitHub: [@githubhandle](https://github.com/topeogunleye)
+- Twitter: [@twitterhandle](https://twitter.com/topeogunleye21)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ogunleye)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Banstein/TDD/issues).
 
 ## Show your support
 
