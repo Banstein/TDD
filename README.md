@@ -38,7 +38,7 @@ Have fun with morse code translation.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Banstein/TDD/issues).
 
 ## Show your support
 
