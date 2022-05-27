@@ -28,11 +28,11 @@ Have fun with morse code translation.
 - Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
 - LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
 
-👤 Faith Eloho Usor
+👤 Temitope Ogunleye
 
-- GitHub: [@githubhandle](https://github.com/usorfaitheloho)
-- Twitter: [@twitterhandle](https://twitter.com/faith-usor16)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/faith-usor)
+- GitHub: [@githubhandle](https://github.com/topeogunleye)
+- Twitter: [@twitterhandle](https://twitter.com/topeogunleye21)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ogunleye)
 
 ## 🤝 Contributing
 
